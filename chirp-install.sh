@@ -11,8 +11,8 @@ sudo usermod -a -G dialout ${USER}
 # Alias gcc to v-12
 sudo ln -s -f /usr/bin/gcc-12 /usr/bin/gcc
 
-mkdir chirp-setup
-cd chirp-setup
+mkdir ~/chirp-setup
+cd ~/chirp-setup
 
 # Get and install CH341 driver
 wget -O CH341SER.zip https://github.com/juliagoda/CH341SER/archive/refs/heads/master.zip
