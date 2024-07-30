@@ -1,3 +1,6 @@
+ARCHIVING THIS, Please Check out [73Linux](https://github.com/km4ack/73Linux). It performs the same actions and more. I would rather contribute to an existing better tool than try to compete. 
+
+
 #THIS REMOVES BRLTTY FROM UBUNTU USED FOR CONNECTING BRAILLE DEVICES IF YOU USE A BRAILLE DEVICE DO NOT RUN THIS
 
 ## What is this?
